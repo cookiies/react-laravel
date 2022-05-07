@@ -30,6 +30,5 @@ Following a blog on pusher for creating a demo laravel application using the pop
     node -v                                                     // install node with node package manager
     npm -v
     npm install
-    php artisan preset react
     npm run watch
     php artisan serve
