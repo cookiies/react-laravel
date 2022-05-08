@@ -32,3 +32,5 @@ Following a blog on pusher for creating a demo laravel application using the pop
     npm install
     npm run watch
     php artisan serve
+
+[source](https://blog.pusher.com/react-laravel-application/)
